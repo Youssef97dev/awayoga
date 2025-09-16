@@ -16,9 +16,6 @@ module.exports = {
       fontFamily: {
         basker: ["Baskervville", "sans-serif"],
       },
-      height: {
-        screen: ["100dvh"], // overrides h-screen
-      },
     },
   },
   plugins: [],
